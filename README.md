@@ -21,10 +21,10 @@ tag dasar html.</p>
 ![2](gambar/3.png)
 
 ### 2. Menambahkan Judul
-Di HTML ada heading dari (<h1>) sampai (<h6>). Fungsinya buat bikin judul utama dan subjudul.
-- (<h1>) biasanya dipakai untuk judul besar.
-- (<h2>) dipakai untuk subjudul.
-- (<h3>) sampai (<h6>) dipakai untuk judul tingkat lebih kecil.
+Di HTML ada heading dari h1 sampai h6. Fungsinya buat bikin judul utama dan subjudul.
+- h1 biasanya dipakai untuk judul besar.
+- h2 dipakai untuk subjudul.
+- h3 sampai h6 dipakai untuk judul tingkat lebih kecil.
 Dengan heading, teks jadi lebih terstruktur dan enak dibaca.
 
 Contoh:
@@ -37,9 +37,9 @@ Contoh:
 ### 3. Memformat Teks
 HTML juga punya tag buat memformat teks supaya tampilannya beda.
 Beberapa contoh:
-- <b> atau <strong> → bikin teks tebal
-- <i> atau <em> → bikin teks miring
-- <u> → bikin teks bergaris bawah
+- b atau strong → bikin teks tebal
+- i atau em → bikin teks miring
+- u → bikin teks bergaris bawah
 
 Fungsinya biar tulisan lebih jelas, misalnya buat menekankan kata penting atau bikin tampilan lebih rapi.
 
@@ -47,7 +47,7 @@ Contoh:
 ![4](gambar/5.png)
 
 ### 4. Menyisipkan Gambar
-Supaya web nggak cuma tulisan doang, kita bisa masukin gambar dengan tag <img>.
+Supaya web nggak cuma tulisan doang, kita bisa masukin gambar dengan tag img.
 Hal yang perlu diperhatikan:
 - Gambar harus ada di folder yang sama dengan file HTML, atau bisa juga dari link internet.
 - Bisa ditambah atribut width atau height untuk ngatur ukuran.
@@ -62,7 +62,7 @@ Contoh:
 
 ### 5. Menyisipkan Gambar
 Hyperlink dipakai untuk berpindah ke halaman lain atau website lain.
-Caranya pakai tag <a> dengan atribut href untuk tujuan link.
+Caranya pakai tag a dengan atribut href untuk tujuan link.
 
 Contoh:
 ```html

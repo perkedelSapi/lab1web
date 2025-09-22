@@ -21,10 +21,10 @@ tag dasar html.</p>
 ![2](gambar/3.png)
 
 ### 2. Menambahkan Judul
-Di HTML ada heading dari <h1> sampai <h6>. Fungsinya buat bikin judul utama dan subjudul.
-- <h1> biasanya dipakai untuk judul besar.
-- <h2> dipakai untuk subjudul.
-- <h3> sampai <h6> dipakai untuk judul tingkat lebih kecil.
+Di HTML ada heading dari (<h1>) sampai (<h6>). Fungsinya buat bikin judul utama dan subjudul.
+- (<h1>) biasanya dipakai untuk judul besar.
+- (<h2>) dipakai untuk subjudul.
+- (<h3>) sampai (<h6>) dipakai untuk judul tingkat lebih kecil.
 Dengan heading, teks jadi lebih terstruktur dan enak dibaca.
 
 Contoh:

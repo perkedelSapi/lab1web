@@ -75,14 +75,15 @@ Contoh:
 ### halaman 2
 ![7](gambar/8.png)
 
+## Soal
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 - Tidak muncul pesan error, tapi hasil tampilan bisa berantakan atau tidak sesuai.
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 
-- <p> = bikin paragraf baru dengan jarak atas-bawah.
-- <br> = cuma pindah baris dalam paragraf.
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+- p = bikin paragraf baru dengan jarak atas-bawah.
+- br = cuma pindah baris dalam paragraf.
+3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
 
 - title = tooltip saat kursor diarahkan ke gambar.
 - alt = teks pengganti kalau gambar gagal dimuat + aksesibilitas screen reader.
